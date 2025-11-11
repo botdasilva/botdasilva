@@ -12,15 +12,7 @@
 - 🎯 Estudando ativamente para a certificação **HTB CPTS**.
 - 🐍 Apaixonado por Python, Redes, Protocolos e Vulnerabilidades de segurança.
 
-<br>
 
-<div align="center">
-  <a href="https://github.com/botdasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=botdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botdasilva&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<br>
 
 ## 👨‍💻 Meus Principais Projetos
 
